@@ -1,0 +1,43 @@
+
+body {
+  background-color: #121212 !important;
+  color:#ffffff !important;
+
+}
+
+
+
+
+h1, p {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.card {
+  color:#ffffff !important;
+  background-color: #4657ce !important;
+  border-radius: 10px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.card img{
+  border-radius: 200%;
+}
+
+
+.icon {
+  
+  border-radius: 15px;
+  align-items: center;
+  font-size: 39px;
+}
+
+
+
+
